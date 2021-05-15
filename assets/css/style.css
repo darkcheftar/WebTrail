@@ -1,0 +1,14 @@
+#nav{
+    display:flex;
+    background: #fff;
+    position:fixed;
+    top:0;
+    left:0;
+    height:5vh;
+    padding:10px;
+    width:100vw;
+}
+nav > ol{
+    display: inline;
+    right:0;
+}
