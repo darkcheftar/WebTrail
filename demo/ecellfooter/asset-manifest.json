@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/WebTrail/demo/ecellfooter/static/css/main.1fa71c3d.css",
-    "main.js": "/WebTrail/demo/ecellfooter/static/js/main.82877966.js",
+    "main.js": "/WebTrail/demo/ecellfooter/static/js/main.64eb55c5.js",
     "static/js/787.57492299.chunk.js": "/WebTrail/demo/ecellfooter/static/js/787.57492299.chunk.js",
     "static/media/cellt.png": "/WebTrail/demo/ecellfooter/static/media/cellt.38366275cedb7f5fa05d.png",
     "index.html": "/WebTrail/demo/ecellfooter/index.html",
     "main.1fa71c3d.css.map": "/WebTrail/demo/ecellfooter/static/css/main.1fa71c3d.css.map",
-    "main.82877966.js.map": "/WebTrail/demo/ecellfooter/static/js/main.82877966.js.map",
+    "main.64eb55c5.js.map": "/WebTrail/demo/ecellfooter/static/js/main.64eb55c5.js.map",
     "787.57492299.chunk.js.map": "/WebTrail/demo/ecellfooter/static/js/787.57492299.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1fa71c3d.css",
-    "static/js/main.82877966.js"
+    "static/js/main.64eb55c5.js"
   ]
 }
